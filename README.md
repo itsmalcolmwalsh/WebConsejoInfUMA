@@ -12,3 +12,5 @@ Página web oficial del Consejo de Estudiantes de la ETSI Informática de la Uni
  - `npm start`
 
 Y listo.
+
+For more information visit [consejoandroid.mx](https://consejosandroid.mx/)
